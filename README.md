@@ -70,9 +70,9 @@ Le principe fondateur : **l'instrument, pas le consultant.** CODEX produit du ma
 
 | Fichier | Rôle |
 |---|---|
-| `installation/INSTALLATEUR_CODEX.md` | Prompt d'installation guidée (Claude installe lui-même les scénarios Make) |
-| `installation/CODEX_ANNEXE_A_BLUEPRINTS.md` | 8 blueprints JSON pour Make (calibrateur + 7 outils Judilibre) |
-| `installation/CODEX_ANNEXE_B_CALIBRATEUR.md` | System prompt du calibrateur Haiku |
+| `Codex Claude Installateur/INSTALLATEUR_CODEX.md` | Prompt d'installation guidée (Claude installe lui-même les scénarios Make) |
+| `Codex Claude Installateur/CODEX_ANNEXE_A_BLUEPRINTS.md` | 8 blueprints JSON pour Make (calibrateur + 7 outils Judilibre) |
+| `Codex Claude Installateur/CODEX_ANNEXE_B_CALIBRATEUR.md` | System prompt du calibrateur Haiku |
 
 ---
 
