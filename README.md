@@ -60,11 +60,11 @@ Le principe fondateur : **l'instrument, pas le consultant.** CODEX produit du ma
 
 | Fichier | Rôle |
 |---|---|
-| `prompts/CODEX_ENGINE_SYSTEM_PROMPT.md` | **Noyau** — System prompt principal du moteur |
-| `prompts/ANNEXE_B_Strategies_analyse.md` | 6 couches d'analyse conditionnelles |
-| `prompts/ANNEXE_C_Sources_Citations.md` | Hiérarchie des sources, formats de citation, protocole CoVe |
-| `prompts/ANNEXE_D_Etiquetage_juridique.md` | 5 niveaux d'étiquetage épistémique |
-| `prompts/ANNEXE_E_Posture.md` | 7 règles de posture, anti-patterns |
+| `Codex Engine/CODEX_ENGINE_SYSTEM_PROMPT.md` | **Noyau** — System prompt principal du moteur |
+| `Codex Engine/ANNEXE_B_Strategies_analyse.md` | 6 couches d'analyse conditionnelles |
+| `Codex Engine/ANNEXE_C_Sources_Citations.md` | Hiérarchie des sources, formats de citation, protocole CoVe |
+| `Codex Engine/ANNEXE_D_Etiquetage_juridique.md` | 5 niveaux d'étiquetage épistémique |
+| `Codex Engine/ANNEXE_E_Posture.md` | 7 règles de posture, anti-patterns |
 
 ### Installation Make
 
